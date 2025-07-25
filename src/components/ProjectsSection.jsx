@@ -5,7 +5,6 @@ const ProjectCard = ({ project }) => {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
   
-  // Check if image is a file path or gradient class
   const isImageFile = project.image && (project.image.includes('.png') || project.image.includes('.jpg') || project.image.includes('.jpeg') || project.image.includes('.webp'));
   
   const handleImageLoad = () => {
@@ -37,7 +36,7 @@ const ProjectCard = ({ project }) => {
               onError={handleImageError}
             />
             
-            {/* Premium overlay with enhanced effects */}
+          
             <div className="image-overlay">
               <div className="overlay-gradient"></div>
               <div className="overlay-pattern"></div>

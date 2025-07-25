@@ -33,7 +33,6 @@ const Portfolio = () => {
     document.getElementById(sectionId)?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  // Custom data - you can modify these to customize your portfolio
   const heroData = {
     title: "Full-Stack Developer",
     subtitle: "Frontend expert diving into backend development. Building modern web applications with React, Node.js, and cutting-edge technologies."
