@@ -164,12 +164,12 @@ const ProjectsSection = ({
     },
     {
       id: 4,
-      title: 'Weather API Integration',
-      description: 'Weather application consuming external APIs, showcasing API integration skills and responsive design principles.',
-      tech: ['JavaScript', 'HTML5', 'CSS3', 'Weather API'],
-      image: 'gradient-blue-cyan',
-      github: '#',
-      live: '#'
+      title: 'Calculator App',
+      description: 'Calculator application featuring basic arithmetic operations, built with JavaScript, HTML5, and CSS3.',
+      tech: ['JavaScript', 'HTML5', 'CSS3', 'Responsive Design'],
+      image: '/Calculator.png',
+      github: 'https://github.com/Stephenpleasant/Calculator-3MTT',
+      live: 'https://calculator-steel-kappa-67.vercel.app/'
     }
   ]
 }) => {
