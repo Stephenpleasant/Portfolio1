@@ -158,7 +158,7 @@ const ProjectsSection = ({
       title: 'Compounding Calculator',
       description: 'Interactive task management application with drag-and-drop functionality, built using React hooks and modern JavaScript.',
       tech: ['React', 'JavaScript', 'CSS3', 'LocalStorage API'],
-      image: '/App.png',
+      image: '/Movie.png',
       github: 'https://github.com/Stephenpleasant/Fullstack',
       live: 'https://fullstack-zhg6.vercel.app/'
     },
