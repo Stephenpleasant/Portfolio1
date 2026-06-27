@@ -139,9 +139,9 @@ const ProjectsSection = ({
       title: 'Movie Database App',
       description: 'Full-stack movie application with Node.js backend, featuring user authentication, movie search, ratings, and personal watchlists.',
       tech: ['React', 'Node.js', 'Express', 'MongoDB'],
-      image: '/App.png',
-      github: 'https://github.com/Stephenpleasant/Fullstack',
-      live: 'https://fullstack-zhg6.vercel.app/',
+      image: '/GHouse.png',
+      github: 'https://github.com/Stephenpleasant/Nest',
+      live: 'https://nest-cn7l.vercel.app/',
       featured: true
     },
     {
@@ -158,18 +158,18 @@ const ProjectsSection = ({
       title: 'Compounding Calculator',
       description: 'Interactive task management application with drag-and-drop functionality, built using React hooks and modern JavaScript.',
       tech: ['React', 'JavaScript', 'CSS3', 'LocalStorage API'],
-      image: '/compounding-calculator.png',
-      github: 'https://github.com/Stephenpleasant/Compounding-Calculator',
-      live: 'https://compounding-calculator-w6np.vercel.app/'
+      image: '/App.png',
+      github: 'https://github.com/Stephenpleasant/Fullstack',
+      live: 'https://fullstack-zhg6.vercel.app/'
     },
     {
       id: 4,
       title: 'Calculator App',
       description: 'Calculator application featuring basic arithmetic operations, built with JavaScript, HTML5, and CSS3.',
       tech: ['JavaScript', 'HTML5', 'CSS3', 'Responsive Design'],
-      image: '/Calculator.png',
-      github: 'https://github.com/Stephenpleasant/Calculator-3MTT',
-      live: 'https://calculator-steel-kappa-67.vercel.app/'
+      image: '/compounding-calculator.png',
+      github: 'https://github.com/Stephenpleasant/Compounding-Calculator',
+      live: 'https://compounding-calculator-w6np.vercel.app/'
     }
   ]
 }) => {
