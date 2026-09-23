@@ -146,8 +146,8 @@ const ProjectsSection = ({
     },
     {
       id: 2,
-      title: 'E-commerce Frontend',
-      description: 'Responsive e-commerce interface built with React and Bootstrap, featuring product catalogs, cart functionality, and checkout flow.',
+      title: 'Boomplay',
+      description: 'A gamified rewards app built with React Native and Expo. Users earn coins through a daily quiz and spin wheel, then compete for prizes in tiered pools — with a leveling and badge system to track progress. Shipped as both a native mobile app and a full web version using React Native Web.',
       tech: ['React Native', 'Typescript', 'Tailwind'],
       image: '/Home1.jpeg',
       github: 'https://github.com/Stephenpleasant/Boomplay',
