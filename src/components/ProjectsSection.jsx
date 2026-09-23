@@ -148,10 +148,10 @@ const ProjectsSection = ({
       id: 2,
       title: 'E-commerce Frontend',
       description: 'Responsive e-commerce interface built with React and Bootstrap, featuring product catalogs, cart functionality, and checkout flow.',
-      tech: ['HTML', 'JavaScript', 'CSS'],
-      image: '/E-commerce.png',
-      github: 'https://github.com/Stephenpleasant/E-commerce',
-      live: 'https://ecommerce-blush-seven-80.vercel.app/'
+      tech: ['React Native', 'Typescript', 'Tailwind'],
+      image: '/Home1.jpeg',
+      github: 'https://github.com/Stephenpleasant/Boomplay',
+      live: 'https://boomplay-swart.vercel.app/'
     },
     {
       id: 3,
