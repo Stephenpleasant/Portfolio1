@@ -27,8 +27,8 @@ const SkillsSection = ({
   frontendSkills = [
     { name: 'React', level: 90, color: 'bg-blue-500' },
     { name: 'JavaScript', level: 95, color: 'bg-yellow-500' },
-    { name: 'HTML/CSS', level: 95, color: 'bg-orange-500' },
-    { name: 'Bootstrap', level: 85, color: 'bg-purple-500' }
+    { name: 'Typescript', level: 95, color: 'bg-orange-500' },
+    { name: 'React Native', level: 85, color: 'bg-purple-500' }
   ],
   backendSkills = [
     { name: 'Node.js', level: 75, color: 'bg-green-500' },
