@@ -147,7 +147,7 @@ const ProjectsSection = ({
     {
       id: 2,
       title: 'Boomplay',
-      description: 'A gamified rewards app built with React Native and Expo. Users earn coins through a daily quiz and spin wheel, then compete for prizes in tiered pools — with a leveling and badge system to track progress. Shipped as both a native mobile app and a full web version using React Native Web.',
+      description: 'A gamified rewards app built with React Native and Expo. Users earn coins through a daily quiz and spin wheel, then compete for prizes in tiered pools — with a leveling and badge system to track progress. Shipped as both a native mobile app and a full web version using React Native Web. To get access the project on your mobile device, go to asset folder and scan the QRcodes. ',
       tech: ['React Native', 'Typescript', 'Tailwind'],
       image: '/Home1.jpeg',
       github: 'https://github.com/Stephenpleasant/Boomplay',
