@@ -137,7 +137,7 @@ const ProjectsSection = ({
     {
       id: 1,
       title: 'Movie Database App',
-      description: 'Full-stack movie application with Node.js backend, featuring user authentication, movie search, ratings, and personal watchlists.',
+      description: 'GhouseConnect is a full-stack real estate management platform built for the Nigerian property market. I developed the admin dashboard — a feature-rich web application that gives administrators complete oversight of property listings, user accounts, agent activity, and financial operations.',
       tech: ['React', 'Node.js', 'Express', 'MongoDB'],
       image: '/GHouse.png',
       github: 'https://github.com/Stephenpleasant/Nest',
@@ -156,7 +156,7 @@ const ProjectsSection = ({
     {
       id: 3,
       title: 'Compounding Calculator',
-      description: 'Interactive task management application with drag-and-drop functionality, built using React hooks and modern JavaScript.',
+      description: 'Full-stack movie application with Node.js backend, featuring user authentication, movie search, ratings, and personal watchlists.',
       tech: ['React', 'JavaScript', 'CSS3', 'LocalStorage API'],
       image: '/Movie.png',
       github: 'https://github.com/Stephenpleasant/Fullstack',
